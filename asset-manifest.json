@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/educa-production/static/css/main.b125f778.css",
+    "main.js": "/educa-production/static/js/main.5f6bb949.js",
+    "static/media/slidebg-1.jpg": "/educa-production/static/media/slidebg-1.ae215f938b4d48fcabcd.jpg",
+    "static/media/slidebg-2.jpg": "/educa-production/static/media/slidebg-2.c2733cdf46545c249c7f.jpg",
+    "static/media/eventbg.jpg": "/educa-production/static/media/eventbg.6d3efaa972137b9a85c4.jpg",
+    "static/media/about-bg.jpg": "/educa-production/static/media/about-bg.e1073a0f89e78bae544a.jpg",
+    "static/media/bg.jpg": "/educa-production/static/media/bg.7543cd195e945bf7afb9.jpg",
+    "static/media/teacher-2.jpg": "/educa-production/static/media/teacher-2.d74b084b74a83cf2f1f3.jpg",
+    "static/media/teacher-4.jpg": "/educa-production/static/media/teacher-4.01364f90bb82447eb499.jpg",
+    "static/media/news1.jpg": "/educa-production/static/media/news1.e1d2261bf9c5d3ee60bd.jpg",
+    "static/media/news2.jpg": "/educa-production/static/media/news2.8ce402a52af41410ee71.jpg",
+    "static/media/test.png": "/educa-production/static/media/test.fe0c6e62b1398f94a4af.png",
+    "static/media/img-1.jpg": "/educa-production/static/media/img-1.49e4d01ebb5fee8d1e6c.jpg",
+    "static/media/test2.png": "/educa-production/static/media/test2.bdb0e4f2bbb9f2b48980.png",
+    "static/media/img-2.jpg": "/educa-production/static/media/img-2.e951b27e6eb033a7704d.jpg",
+    "index.html": "/educa-production/index.html",
+    "main.b125f778.css.map": "/educa-production/static/css/main.b125f778.css.map",
+    "main.5f6bb949.js.map": "/educa-production/static/js/main.5f6bb949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b125f778.css",
+    "static/js/main.5f6bb949.js"
+  ]
+}
