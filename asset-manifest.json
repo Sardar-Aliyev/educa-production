@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/educa-production/static/css/main.b125f778.css",
-    "main.js": "/educa-production/static/js/main.5f6bb949.js",
+    "main.js": "/educa-production/static/js/main.a11fec50.js",
     "static/media/slidebg-1.jpg": "/educa-production/static/media/slidebg-1.ae215f938b4d48fcabcd.jpg",
     "static/media/slidebg-2.jpg": "/educa-production/static/media/slidebg-2.c2733cdf46545c249c7f.jpg",
     "static/media/eventbg.jpg": "/educa-production/static/media/eventbg.6d3efaa972137b9a85c4.jpg",
@@ -17,10 +17,10 @@
     "static/media/img-2.jpg": "/educa-production/static/media/img-2.e951b27e6eb033a7704d.jpg",
     "index.html": "/educa-production/index.html",
     "main.b125f778.css.map": "/educa-production/static/css/main.b125f778.css.map",
-    "main.5f6bb949.js.map": "/educa-production/static/js/main.5f6bb949.js.map"
+    "main.a11fec50.js.map": "/educa-production/static/js/main.a11fec50.js.map"
   },
   "entrypoints": [
     "static/css/main.b125f778.css",
-    "static/js/main.5f6bb949.js"
+    "static/js/main.a11fec50.js"
   ]
 }
